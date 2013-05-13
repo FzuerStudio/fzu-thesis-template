@@ -338,6 +338,7 @@ Full-Width Styles
   height:70px;
   text-indent: -5000px;
   overflow: hidden;
+  margin-right: 100px;
   background: url(../images/sprite_download.png) no-repeat bottom left;
 }
 
